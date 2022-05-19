@@ -1,0 +1,22 @@
+.form{
+    padding: 2em;
+    border: 1px solid var(--themeRed);
+    text-align: center;
+}
+
+.form input{
+    margin: 0.8em;
+    padding: 1em;
+    display: block
+}
+
+.title{
+    color: var(--themeRed);
+    text-align: center;
+}
+
+.submitButton{
+    background-color: var(--themeRed);
+    color: white;
+    padding: 1em 1em;
+}
