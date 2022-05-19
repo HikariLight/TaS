@@ -4,13 +4,10 @@
 
 .homeMain h1{
     color: var(--themeRed);
-    padding: 0.5em 0;
 }
 
 .homeMain button{
     margin: 0 0.5em;
-    padding: 1em 2em;
-    border-radius: 20px;
 }
 
 .homeMain button > *{
@@ -18,7 +15,6 @@
 }
 
 .loginButton{
-    border: none;
     background-color: var(--themeRed);
 }
 
